@@ -1,6 +1,12 @@
-### I use github as private purpose.
+### I use github for private purposes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HA710)](https://github.com/ryo-ma/github-profile-trophy)
+
+### contact
+#### Twitter
+[@8_7_10](https://twitter.com/8_7_10)
+#### Website
+[HA710](https://ha710.pages.dev)
 
 <!--
 **HA710/HA710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
