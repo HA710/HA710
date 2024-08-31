@@ -1,4 +1,4 @@
-### I use github for private purposes.
+### I use Github only for managing private repositories.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HA710)](https://github.com/ryo-ma/github-profile-trophy)
 
