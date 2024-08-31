@@ -1,6 +1,6 @@
 ### I use Github only for managing private repositories.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HA710)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HA710&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### contact
 #### Twitter
