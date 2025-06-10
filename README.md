@@ -1,11 +1,15 @@
-### I use Github only for managing private repositories.
+## About Me
+
+I am a Japanese university student.  I can write TypeScript(JavaScript) and Rust.  I can also write C++, but not at a high level.  About markup languages, I can use HTML and CSS.
+
+Currently, I use GitHub only for managing private repositories.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HA710&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-### contact
-#### Twitter
+## Contact
+### Twitter
 [@8_7_10](https://twitter.com/8_7_10)
-#### Website
+### Website
 [HA710](https://ha710.pages.dev)
 
 <!--
