@@ -4,9 +4,15 @@ I am a Japanese university student.  I can write TypeScript(JavaScript) and Rust
 
 Currently, I use GitHub only for managing private repositories.
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=HA710&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha710)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
+## Contact / Links
 ### Twitter
 [@8_7_10](https://twitter.com/8_7_10)
 ### Website
