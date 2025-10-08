@@ -1,8 +1,8 @@
 ## About Me
 
-I am a Japanese university student.  I can write TypeScript(JavaScript) and Rust.  I can also write C++, but not at a high level.  About markup languages, I can use HTML and CSS.
+I am a Japanese university student.  I can write TypeScript(JavaScript) and Rust.  I can also write C++, but not at a high level.  Regarding markup languages, I am familiar with HTML and CSS.
 
-Currently, I use GitHub only for managing private repositories.
+Currently, I use GitHub mainly for managing private repositories.
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=HA710&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
